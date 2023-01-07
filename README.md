@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Muhammad</h1>
 <h3 align="center">A passionate Software Engineer/Web3 Developer</h3>
+<img align="center" src="name_logo.png" alt="express" width="450" height="300" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodingAbdullah&label=Profile%20views&color=blueviolet&style=flat" alt="CodingAbdullah" /> </p>
 
@@ -21,8 +22,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingAbdullah&show_icons=true&locale=en&layout=compact" alt="CodingAbdullah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodingAbdullah&show_icons=true&locale=en" alt="CodingAbdullah" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=CodingAbdullah&show_icons=true&locale=en" alt="CodingAbdullah" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=CodingAbdullah&" alt="CodingAbdullah" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingAbdullah" alt="CodingAbdullah" /><p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingAbdullah" alt="CodingAbdullah" /><p>
