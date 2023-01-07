@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, Node, Java, Databases, Crypto... and just about anything else related to Software Development!**
 
-- ⚡ **I love to creating and developing software/tools to help the normies out.**
+- ⚡ **I love creating and developing software/tools to help the normies out.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=CodingAbdullah&show_icons=true&locale=en" alt="CodingAbdullah" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=CodingAbdullah&" alt="CodingAbdullah" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingAbdullah" alt="CodingAbdullah" /><p>
