@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdullah Muhammad</h1>
 <h3 align="center">A passionate Software Engineer/Web3 Developer</h3>
-<img align="center" src="name_logo.png" alt="express" width="450" height="300" />
+<p align="center"> 
+    <img src="name_logo.png" alt="logo" width="350" height="200" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodingAbdullah&label=Profile%20views&color=blueviolet&style=flat" alt="CodingAbdullah" /> </p>
 
