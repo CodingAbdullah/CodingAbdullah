@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=CodingAbdullah&show_icons=true&locale=en" alt="CodingAbdullah" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=CodingAbdullah&" alt="CodingAbdullah" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=CodingAbdullah&" alt="CodingAbdullah" /><p>
