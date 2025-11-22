@@ -2,7 +2,7 @@ name: GitHub Snake
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Run every 5 minutes
+    - cron: '*/5 * * * *'   # every 5 minutes
   workflow_dispatch:
 
 jobs:
@@ -10,16 +10,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout repo
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
+      # Generate snake GIF
       - name: Generate Snake GIF
         uses: Platane/snk@v3.4.0
         with:
           github_user_name: "CodingAbdullah"
-          outputs: ./snake.gif
+          outputs: dist/snake.gif   # generated in dist/
 
+      # Copy GIF to repo root
+      - name: Copy snake GIF to root
+        run: |
+          cp dist/snake.gif snake.gif
+
+      # Commit & push to separate branch
       - name: Push to snake-assets branch
         run: |
           git checkout -B snake-assets
