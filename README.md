@@ -1,33 +1,147 @@
 <h1 align="center">Hi 👋, I'm Abdullah Muhammad</h1>
-<h3 align="center">Passionate Software Engineer</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 <p align="center"> 
     <img src="name_logo.png" alt="logo" width="350" height="200" />
 </p>
 
+<h3> Profile Views</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodingAbdullah&label=Profile%20views&color=blueviolet&style=flat" alt="CodingAbdullah" /> </p>
 
-- 🌱 Constantly learning
+<h3>Social Media Links</h3>
 
-- 👨‍💻 All of my projects are available here: [https://github.com/CodingAbdullah](https://github.com/CodingAbdullah)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?logo=wordpress&logoColor=white)](https://softwareblog.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abdullahmd326@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/kingabdul_95)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abdullah_95)
+[![NPM](https://img.shields.io/badge/NPM-kingabdullah-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/~kingabdullah)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/KA95doteth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/softwaredeveloperabdullah/)
+[![Website](https://img.shields.io/badge/Website-0A66C2?logo=google-chrome&logoColor=white)](https://kingabdullah.codes)
 
-- 💬 Ask me about **React, Node, Java, Databases, Crypto... and just about anything else related to Software Development!**
+<h3>About Me</h3>
 
-- ⚡ **I love creating and developing software/tools to help the normies out.**
+I am a Full-Stack Engineer specializing in DevOps, cloud-native development, and modern web applications. I build and deploy scalable systems using AWS, Docker, Jenkins, and CI/CD pipelines, with a strong focus on automation, reliability, and performance.
 
-<br />
+My core stack includes Next.js, TypeScript, React, Node.js, and Express.js, and I use AI-powered tools like Cursor and Claude to accelerate development.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/softwaredeveloperabdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-muhammad" height="30" width="40" /></a>
+I also work within the Ethereum, Web3, and blockchain ecosystem, building dashboards, integrating on-chain data, and exploring Bitcoin and decentralized application workflows.
 
-<br />
+I thrive in agile environments, with a strong emphasis on testing and quality using Selenium WebDriver, JUnit, and Cucumber, ensuring reliable development and continuous delivery.
 
-<h3 align="left">Languages, Tools and IDEs:</h3>
+Living through Mathematics and code is my life, this is all I do! Below you will find detailed information about my tech stack and what I use to create awesome projects 👇
 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="express" width="40" height="40"/></a><a href="https://www.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="express" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Atom_(text_editor)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original-wordmark.svg" alt="express" width="40" height="40"/></a><a href="https://azure.microsoft.com/en-ca" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="express" width="40" height="40"/></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="express" width="40" height="40"/></a><a href="https://bitbucket.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="express" width="40" height="40"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="express" width="40" height="40"/></a><a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="express" width="40" height="40"/></a><a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg" alt="express" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain-wordmark.svg" alt="express" width="40" height="40"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="express" width="40" height="40"/></a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a><a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="express" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="express" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="mongodb" width="40" height="40"/></a><a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a><a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="postman" width="40" height="40"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a><a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/></a><a href="https://polygon.technology" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/polygon/polygon-original.svg" alt="postman" width="40" height="40"/></a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="react" width="40" height="40"/></a><a href="https://developer.salesforce.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="react" width="40" height="40"/></a><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="react" width="40" height="40"/></a><a href="https://docs.soliditylang.org/en/v0.8.17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="react" width="40" height="40"/></a><a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="express" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/></a><a href="https://unix.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg" alt="react" width="40" height="40"/></a><a href="https://www.vim.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="react" width="40" height="40"/></a><a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 
-<br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingAbdullah&show_icons=true&locale=en&layout=compact" alt="CodingAbdullah" /></p>
+<details>
 
-<br />
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=CodingAbdullah&" alt="CodingAbdullah" /><p>
+<summary><h3>My Own TypeScript Implementation</h3></summary>
+
+```ts
+class Abdullah extends Profile {
+  first_name: string;
+  last_name: string;
+  age: number;
+  gender: string;
+  isSingle: boolean;
+
+  constructor() {
+    super();
+  }
+
+  getLanguages(): string[] {
+    return ["TypeScript", "JavaScript", "Java", "Solidity", "SQL", "HCL"];
+  }
+
+  getCertifications(): string[] {
+    return [
+      "AWS Certified Cloud Practitioner",
+      "Hashicorp: Terraform Certified",
+      "Microsoft Azure Fundamentals"
+    ];
+  }
+
+  getFrameworks(): string[] {
+    return ["Express.js", "Next.js", "Node.js"];
+  }
+
+  getTools(): string[] {
+    return [
+      "AWS", "Azure", "Claude", "Cursor", "Docker",
+      "Git", "Jenkins", "NPM", "Supabase", "Terraform"
+    ];
+  }
+
+  getLibraries(): string[] {
+    return [
+      "Vercel AI SDK", "MDX", "React.js",
+      "Redux", "Shadcn/ui", "Tailwind CSS"
+    ];
+  }
+}
+```
+
+</details>
+
+<details>
+<summary><h3>My Tech Stack</h3></summary>
+
+<details>
+<summary><h4>💻 Languages / Frameworks / Tools</h4></summary>
+
+[![React](https://img.shields.io/badge/React-2023?logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/)
+
+</details>
+
+<details>
+<summary><h4>🔗 Blockchain / Crypto</h4></summary>
+
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=white)](https://bitcoin.org/)
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)](https://ethereum.org/)
+[![Solana](https://img.shields.io/badge/Solana-00FFA3?logo=solana&logoColor=white)](https://solana.com/)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)](https://docs.soliditylang.org/)
+</details>
+
+<details>
+<summary><h4>🧪 Testing</h4></summary>
+
+[![Mocha](https://img.shields.io/badge/Mocha-323330?logo=mocha&logoColor=Brown)](https://mochajs.org/)
+[![Cucumber](https://img.shields.io/badge/Cucumber-79C83D?logo=cucumber&logoColor=white)](https://cucumber.io/)
+[![Remix](https://img.shields.io/badge/Remix-808080?logo=remix&logoColor=white)](https://remix.ethereum.org/)
+</details>
+
+<details>
+<summary><h4>🤖 AI Tools/IDEs</h4></summary>
+
+[![Claude AI](https://img.shields.io/badge/Claude-da7756?style=for-the-badge&logoColor=white)](https://claude.ai/)
+[![Cursor IDE](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)](https://cursor.com/)
+</details>
+
+</details>
+
+<details>
+<summary><h3>Language Usage</h3></summary>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingAbdullah&show_icons=true&locale=en&layout=compact" alt="CodingAbdullah" />
+
+</details>
+
+<details>
+<summary><h3>Commit Streak</h3></summary>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingAbdullah" alt="CodingAbdullah" />
+
+</details>
