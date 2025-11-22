@@ -4,8 +4,6 @@
     <img src="name_logo.png" alt="logo" width="350" height="200" />
 </p>
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/CodingAbdullah/CodingAbdullah/snake-assets/snake.gif)
-
 <h3> Profile Views</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodingAbdullah&label=Profile%20views&color=blueviolet&style=flat" alt="CodingAbdullah" /> </p>
 
@@ -32,6 +30,7 @@ I thrive in agile environments, with a strong emphasis on testing and quality us
 
 Living through Mathematics and code is my life, this is all I do! Below you will find detailed information about my tech stack and what I use to create awesome projects 👇
 
+![GitHub Contribution Snake](https://raw.githubusercontent.com/CodingAbdullah/CodingAbdullah/snake-assets/snake.gif)
 
 <details>
 
