@@ -2,16 +2,30 @@ name: GitHub Snake
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/5 * * * *'   # every 12 minutes
   workflow_dispatch:
 
 jobs:
   snake:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
-      - name: Generate Snake Game
+    steps:
+      # Checkout the repo
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      # Generate the snake GIF
+      - name: Generate Snake GIF
         uses: Platane/snk@v3.4.0
         with:
           github_user_name: "CodingAbdullah"
+          outputs: snake.gif
+
+      # Push to a separate branch
+      - name: Push to snake-assets branch
+        run: |
+          git checkout -B snake-assets
+          git add snake.gif
+          git commit -m "Update snake GIF [skip ci]" || echo "No changes to commit"
+          git push origin snake-assets --force

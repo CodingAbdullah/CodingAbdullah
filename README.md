@@ -4,6 +4,8 @@
     <img src="name_logo.png" alt="logo" width="350" height="200" />
 </p>
 
+![GitHub Contribution Snake](https://raw.githubusercontent.com/CodingAbdullah/CodingAbdullah/snake-assets/snake.gif)
+
 <h3> Profile Views</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodingAbdullah&label=Profile%20views&color=blueviolet&style=flat" alt="CodingAbdullah" /> </p>
 
