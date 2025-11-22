@@ -12,10 +12,10 @@
 [![Blog](https://img.shields.io/badge/Blog-FF5722?logo=wordpress&logoColor=white)](https://softwareblog.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abdullahmd326@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/kingabdul_95)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/softwaredeveloperabdullah/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abdullah_95)
 [![NPM](https://img.shields.io/badge/NPM-kingabdullah-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/~kingabdullah)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/KA95doteth)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/softwaredeveloperabdullah/)
 [![Website](https://img.shields.io/badge/Website-0A66C2?logo=google-chrome&logoColor=white)](https://kingabdullah.codes)
 
 <h3>About Me</h3>
@@ -87,22 +87,22 @@ class Abdullah extends Profile {
 <details>
 <summary><h4>💻 Languages / Frameworks / Tools</h4></summary>
 
-[![React](https://img.shields.io/badge/React-2023?logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![React](https://img.shields.io/badge/React-2023?logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 </details>
 
@@ -118,8 +118,8 @@ class Abdullah extends Profile {
 <details>
 <summary><h4>🧪 Testing</h4></summary>
 
-[![Mocha](https://img.shields.io/badge/Mocha-323330?logo=mocha&logoColor=Brown)](https://mochajs.org/)
 [![Cucumber](https://img.shields.io/badge/Cucumber-79C83D?logo=cucumber&logoColor=white)](https://cucumber.io/)
+[![Mocha](https://img.shields.io/badge/Mocha-323330?logo=mocha&logoColor=Brown)](https://mochajs.org/)
 [![Remix](https://img.shields.io/badge/Remix-808080?logo=remix&logoColor=white)](https://remix.ethereum.org/)
 </details>
 
