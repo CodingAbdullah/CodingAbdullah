@@ -37,11 +37,11 @@ Living through Mathematics and code is my life, this is all I do! Below you will
 
 ```ts
 class Abdullah extends Profile {
-  first_name: string;
-  last_name: string;
-  age: number;
-  gender: string;
-  isSingle: boolean;
+  first_name: string = 'Abdullah';
+  last_name: string = 'Muhammad';
+  age: number = 30;
+  gender: string = 'male';
+  isSingle: boolean = true;
 
   constructor() {
     super();

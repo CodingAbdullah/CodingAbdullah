@@ -1,0 +1,19 @@
+name: GitHub Snake
+
+# Trigger the workflow every 5 minutes and allow manual runs
+on:
+  schedule:
+    - cron: '*/5 * * * *'   # runs every 5 minutes
+  workflow_dispatch:         # allows manual triggering
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout your repository
+      - uses: actions/checkout@v3
+
+      # Run the Snake Game generator
+      - name: Generate Snake Game
+        uses: Platane/snk@v3.4.0
