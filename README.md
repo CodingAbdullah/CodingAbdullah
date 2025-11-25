@@ -30,13 +30,25 @@ I thrive in agile environments, with a strong emphasis on testing and quality us
 
 Living through Mathematics and code is my life, this is all I do! Below you will find detailed information about my tech stack and what I use to create awesome projects 👇
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/CodingAbdullah/CodingAbdullah/snake-assets/snake.gif)
+---
 
-<details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodingAbdullah/CodingAbdullah/snake-assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodingAbdullah/CodingAbdullah/snake-assets/snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/CodingAbdullah/CodingAbdullah/snake-assets/snake.svg" />
+</picture>
 
-<summary><h3>My Own TypeScript Implementation</h3></summary>
+---
 
-```ts
+## Code Profile
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### About Me in Code
+
+```typescript
 class Abdullah extends Profile {
   first_name: string = 'Abdullah';
   last_name: string = 'Muhammad';
@@ -49,7 +61,11 @@ class Abdullah extends Profile {
   }
 
   getLanguages(): string[] {
-    return ["TypeScript", "JavaScript", "Java", "Solidity", "SQL", "HCL"];
+    return [
+      "TypeScript", "JavaScript",
+      "Java", "Solidity",
+      "SQL", "HCL"
+    ];
   }
 
   getCertifications(): string[] {
@@ -61,88 +77,94 @@ class Abdullah extends Profile {
   }
 
   getFrameworks(): string[] {
-    return ["Express.js", "Next.js", "Node.js"];
+    return [
+      "Express.js",
+      "Next.js",
+      "Node.js"
+    ];
   }
 
   getTools(): string[] {
     return [
-      "AWS", "Azure", "Claude", "Cursor", "Docker",
-      "Git", "Jenkins", "NPM", "Supabase", "Terraform"
+      "AWS", "Azure", "Claude",
+      "Cursor", "Docker", "Git",
+      "Jenkins", "NPM", "Supabase",
+      "Terraform"
     ];
   }
 
   getLibraries(): string[] {
     return [
-      "Vercel AI SDK", "MDX", "React.js",
-      "Redux", "Shadcn/ui", "Tailwind CSS"
+      "Vercel AI SDK", "MDX",
+      "React.js", "Redux",
+      "Shadcn/ui", "Tailwind CSS"
     ];
   }
 }
 ```
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><h3>My Tech Stack</h3></summary>
+### Language Usage
 
-<details>
-<summary><h4>💻 Languages / Frameworks / Tools</h4></summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingAbdullah&show_icons=true&locale=en&layout=compact&theme=radical" alt="CodingAbdullah" />
 
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
-[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
-[![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![React](https://img.shields.io/badge/React-2023?logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+### Commit Streak
 
-</details>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingAbdullah&theme=radical" alt="CodingAbdullah" />
 
-<details>
-<summary><h4>🔗 Blockchain / Crypto</h4></summary>
+</td>
+</tr>
+</table>
 
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=white)](https://bitcoin.org/)
-[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)](https://ethereum.org/)
-[![Solana](https://img.shields.io/badge/Solana-00FFA3?logo=solana&logoColor=white)](https://solana.com/)
-[![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)](https://docs.soliditylang.org/)
-</details>
+---
 
-<details>
-<summary><h4>🧪 Testing</h4></summary>
+## Tech Stack
 
-[![Cucumber](https://img.shields.io/badge/Cucumber-79C83D?logo=cucumber&logoColor=white)](https://cucumber.io/)
-[![Mocha](https://img.shields.io/badge/Mocha-323330?logo=mocha&logoColor=Brown)](https://mochajs.org/)
-[![Remix](https://img.shields.io/badge/Remix-808080?logo=remix&logoColor=white)](https://remix.ethereum.org/)
-</details>
+### Languages / Frameworks / Tools
 
-<details>
-<summary><h4>🤖 AI Tools/IDEs</h4></summary>
+<p align="left">
+<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="Bash"/></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/></a>
+<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js"/></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/></a>
+<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"/></a>
+<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/></a>
+<a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins"/></a>
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"/></a>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"/></a>
+<a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" alt="NPM"/></a>
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-2023?logo=react&logoColor=61DAFB" alt="React"/></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" alt="SQL"/></a>
+<a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase"/></a>
+<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
+<a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" alt="Terraform"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/></a>
+</p>
 
-[![Claude AI](https://img.shields.io/badge/Claude-da7756?style=for-the-badge&logoColor=white)](https://claude.ai/)
-[![Cursor IDE](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)](https://cursor.com/)
-</details>
+### Blockchain / Crypto
 
-</details>
+<p align="left">
+<a href="https://bitcoin.org/"><img src="https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=white" alt="Bitcoin"/></a>
+<a href="https://ethereum.org/"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white" alt="Ethereum"/></a>
+<a href="https://solana.com/"><img src="https://img.shields.io/badge/Solana-00FFA3?logo=solana&logoColor=white" alt="Solana"/></a>
+<a href="https://docs.soliditylang.org/"><img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" alt="Solidity"/></a>
+</p>
 
-<details>
-<summary><h3>Language Usage</h3></summary>
+### Testing
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingAbdullah&show_icons=true&locale=en&layout=compact" alt="CodingAbdullah" />
+<p align="left">
+<a href="https://cucumber.io/"><img src="https://img.shields.io/badge/Cucumber-79C83D?logo=cucumber&logoColor=white" alt="Cucumber"/></a>
+<a href="https://mochajs.org/"><img src="https://img.shields.io/badge/Mocha-323330?logo=mocha&logoColor=Brown" alt="Mocha"/></a>
+<a href="https://remix.ethereum.org/"><img src="https://img.shields.io/badge/Remix-808080?logo=remix&logoColor=white" alt="Remix"/></a>
+</p>
 
-</details>
+### AI Tools / IDEs
 
-<details>
-<summary><h3>Commit Streak</h3></summary>
+<p align="left">
+<a href="https://claude.ai/"><img src="https://img.shields.io/badge/Claude-da7756?style=for-the-badge&logoColor=white" alt="Claude AI"/></a>
+<a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" alt="Cursor IDE"/></a>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingAbdullah" alt="CodingAbdullah" />
-
-</details>
+---
