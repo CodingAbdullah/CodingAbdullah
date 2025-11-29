@@ -108,11 +108,11 @@ class Abdullah extends Profile {
 
 ### Language Usage
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingAbdullah&show_icons=true&locale=en&layout=compact&theme=radical" alt="CodingAbdullah" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=CodingAbdullah&show_icons=true&locale=en&layout=compact&theme=radical" alt="CodingAbdullah" />
 
 ### Commit Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingAbdullah&theme=radical" alt="CodingAbdullah" />
+<img src="https://streak-stats.demolab.com/?user=CodingAbdullah&theme=radical" alt="CodingAbdullah" />
 
 </td>
 </tr>
