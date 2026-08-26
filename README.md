@@ -111,7 +111,10 @@ Living through Mathematics and code is my life, this is all I do! Below you will
 
 ## GitHub Activity
 
+<p align="left">
+<img src="https://github-stats-extended.vercel.app/api?username=CodingAbdullah&include_all_commits=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=888888&icon_color=D4AF37" alt="CodingAbdullah's GitHub stats" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=CodingAbdullah&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=css,dockerfile,powershell,html,mdx,plpgsql&bg_color=00000000&title_color=D4AF37&text_color=888888&icon_color=D4AF37" alt="CodingAbdullah's most used languages" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodingAbdullah/CodingAbdullah/snake-assets/snake-dark.svg" />
